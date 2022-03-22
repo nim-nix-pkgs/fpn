@@ -9,7 +9,7 @@
   
   inputs.src-fpn-master.flake = false;
   inputs.src-fpn-master.owner = "lbartoletti";
-  inputs.src-fpn-master.ref   = "refs/heads/master";
+  inputs.src-fpn-master.ref   = "master";
   inputs.src-fpn-master.repo  = "fpn";
   inputs.src-fpn-master.type  = "gitlab";
   
